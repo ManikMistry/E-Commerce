@@ -52,10 +52,10 @@ Interested in contributing to this project? Thanks so much for your interest! We
 <!-- CONTACT -->
 <h2>Contact with me</h2>
 
-Subrat Kumar Sahu
-* [instagram](https://www.instagram.com/sahu.subrat/)
-* [LinkedIn](https://www.linkedin.com/in/subrat-kumar-sahu-483059159/)
-* [facebook](https://www.facebook.com/subrat.sahu.7140)
+Manik Mistry
+* [instagram](https://www.instagram.com/i_am_manik_01/)
+* [LinkedIn](https://www.linkedin.com/in/manik-mistry-736a69241/)
+* [facebook](https://www.facebook.com/mk.mistry.79)
 
 
 <h1>⚠️ License</h1>
